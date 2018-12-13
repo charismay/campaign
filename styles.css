@@ -1,0 +1,29 @@
+img{
+    width:200px;
+    height:200px;
+}
+body{
+    text-align:center;
+}
+.pictures{
+    display:flex;
+    justify-content:space-between;
+}
+.heading{
+    background:lavender;
+    font-family: 'Gloria Hallelujah', cursive;
+    padding:50px;
+    margin:20px;
+}
+.donate{
+    background:aqua;
+    font-family: 'Teko', sans-serif;
+}
+.pictures{
+    background:grey;
+    border:dotted;
+}
+.vote{
+    background:pink;
+    font-family: 'Lobster Two', cursive;
+}
